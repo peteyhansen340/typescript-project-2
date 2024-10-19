@@ -1,32 +1,31 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I wrote this project to learn how to create a user authentication system using TypeScript. It includes features like user registration, login, and profile management. This project is a great way to practice TypeScript concepts and build a real-world application.
 
-{Provide a description of the software that you wrote to demonstrate the TypeScript language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/BxHQQnPOGhI)
 
 # Development Environment
 
 {Describe the tools that you used to develop the software}
+Register and store multiple users.
+Login functionality with credential checks.
+Manage users in a list (like a database simulation).
+Asynchronous operations to simulate real-world delays.
+Terminal output to interact with users.
 
 {Describe the programming language that you used and any libraries.}
-
+This project is a simple user authentication system built using TypeScript. It includes functionality for user registration, login, and profile management. We’ll be using TypeScript features like classes, asynchronous functions, and lists to achieve this
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Youtube (jaymartmedia)](https://www.youtube.com/watch?v=DTHnCnkHxfk)
+- [contentful](https://www.contentful.com/blog/what-is-typescript-and-why-should-you-use-it/)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- make input for user to enter their information
+- add javascript to make the page look better
+- make a class file to store the user's information and display it back to them
